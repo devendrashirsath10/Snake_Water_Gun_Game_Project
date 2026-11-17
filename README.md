@@ -5,8 +5,8 @@
 -1 for Water 
  0 for Gun
 
-
 '''
+
 import random
 
 computer = random.choice([-1, 0, 1])
